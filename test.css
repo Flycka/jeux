@@ -1,0 +1,47 @@
+body{
+   
+    
+    width: 30vw;
+    margin: 15vw auto;
+    height: 45vh;
+    background: rgb(32, 32, 32);
+    border-color: blueviolet;
+}
+h1 {
+    text-align: center;
+    color: rgb(37, 148, 223);
+    
+}
+
+h2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+div{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: large;
+}
+input{
+    text-align: center;
+    width: 15vw;
+    border: 2px solid;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    margin: 15px auto;
+    display: block;
+background-color: rgba(82, 66, 87, 0.144);
+}
+button {
+    margin: auto;
+    display: block;
+    max-width: 15vw;
+   max-height: 9vh;
+    min-height: 2vh;
+   min-width: 15vw;
+    font-size: 2vw;
+    background-color: rgb(28, 93, 179);
+    color: rgb(255, 255, 255);
+
+    }
+
